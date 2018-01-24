@@ -1,1 +1,1 @@
-Just 'Test'
+Just 'Global User.name Test'
